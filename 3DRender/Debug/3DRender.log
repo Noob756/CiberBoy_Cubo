@@ -1,0 +1,6 @@
+﻿  3DRender.cpp
+C:\Users\David\source\repos\3DRender\3DRender.cpp(48,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\David\source\repos\3DRender\3DRender.cpp(49,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\David\source\repos\3DRender\3DRender.cpp(50,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo _main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\David\source\repos\3DRender\Debug\3DRender.exe : fatal error LNK1120: 1 externos sin resolver
